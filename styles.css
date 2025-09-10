@@ -87,6 +87,7 @@ p {
     align-items: center;
     height: auto;
     width: auto;
+    margin-left: 10%;
    }
 
    h2 {
@@ -94,6 +95,15 @@ p {
     align-items: center;
     height: auto;
     width: auto;
+    margin-left: 10%;
+   }
+
+   p {
+    margin-top: 2%;
+    align-items: center;
+    height: auto;
+    width: auto;
+    margin-left: 2%;
    }
 
    .s2 {
