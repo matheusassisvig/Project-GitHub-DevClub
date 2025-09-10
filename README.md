@@ -1,7 +1,7 @@
 <h1>Sua Academia</h1>
 <br>
 <br>
-<h2>Esse foi um projeto que fiz utilizando os ensinos que obtive no curso do <a href="https://aulas.devclub.com.br/m/courses">DevClub</a></h2>
+<h2>Esse foi um projeto (basico) que fiz utilizando os ensinos que obtive no curso do <a href="https://aulas.devclub.com.br/m/courses">DevClub</a></h2>
 <br>
 <br>
 <h2>Foram utilizadas as tecnologias de HTML e CSS</h2>
